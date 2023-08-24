@@ -1,10 +1,12 @@
  h1 {
   color:  blue;
   font-size: 20px;
+  font-style: italic;
 }
 
 #test_id {
   font-size: 40px;
+  font-weight: 300;
 }
 
 .test_class {
