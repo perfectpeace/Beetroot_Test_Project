@@ -1,0 +1,28 @@
+ h1 {
+  color:  blue;
+  font-size: 20px;
+}
+
+#test_id {
+  font-size: 40px;
+}
+
+.test_class {
+  color: red;
+} 
+
+* {
+  color: green;
+}
+
+/* p {
+  font-family: verdana;
+  font-size: 20px;
+} */
+/*  a:hover {
+   text-decoration: line-through;
+   color: green;
+} */
+/* p.test {
+  color: red;
+}
